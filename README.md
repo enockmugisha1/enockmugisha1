@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on software solution...
 - 📫 How to reach me .e.mugisha4@alustudent.com
 - 😄 Pronouns: .he..
-- ⚡ Fun fact: .programming..
+- ⚡ Fun fact: .programming and solving leetcodes problems daily like to playing games .
 
 <!---
 enockmugisha1/enockmugisha1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
